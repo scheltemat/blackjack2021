@@ -2,6 +2,8 @@
 
 # Blackjack 2022
 
+## [link to the website](https://blackjack-game-2022.netlify.app)
+
 ### Overview
 - It's everyone's favorite casino game, Blackjack! But this time it's on your computer screen, and you can only play by yourself against the dealer.
 
